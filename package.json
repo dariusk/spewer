@@ -1,7 +1,7 @@
 {
   "name": "spewer",
   "description": "A reverse part-of-speech tagger. Give it a list of tags and it spews out matching language.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/dariusk/spewer",
   "author": {
     "name": "Darius Kazemi",
