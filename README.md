@@ -8,11 +8,8 @@ Install the module with: `npm install spewer`
 ```javascript
 var spewer = require('spewer');
 var sentence = spewer.spew('JJ JJ NNS VBP RB');
-// "colorless green ideas sleep furiously"
-console.log(sentence);
-// "sullen misty shoes lean reputedly"
-console.log(sentence);
-// etc...
+console.log(sentence); // "colorless green ideas sleep furiously"
+console.log(sentence); // "sullen misty shoes lean reputedly"
 ```
 
 ## Documentation
