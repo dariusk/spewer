@@ -1,4 +1,4 @@
-# spewer [![Build Status](https://secure.travis-ci.org/dkazemi/spewer.png?branch=master)](http://travis-ci.org/dkazemi/spewer)
+# spewer [![Build Status](https://secure.travis-ci.org/dariusk/spewer.png?branch=master)](http://travis-ci.org/dariusk/spewer)
 
 A reverse part-of-speech tagger. Give it a list of tags and it spews out matching language.
 
