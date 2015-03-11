@@ -31,7 +31,6 @@ Call `spewer.spew(tags)`, where `tags` is a space-delimited string of part of sp
     RBR Adverb, comparative     faster
     RBS Adverb, superlative     fastest
     RP Particle                 up,off
-    SYM Symbol                  +,%,&
     VB verb, base form          eat
     VBD verb, past tense        ate
     VBG verb, gerund            eating
